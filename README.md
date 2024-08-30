@@ -26,7 +26,7 @@ The Password Strength Checker Tool is a user-friendly application developed with
     pip install PyQt5 pyperclip
 3. **Run the Script**: Execute the script using Python
     ```bash
-    python password_strength_checker.py
+    python password_strength_checker_tool.py
 
 ## How To Use
 - **Enter the Password**: Type the password you want to evaluate into the provided password field.
